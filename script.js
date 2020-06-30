@@ -1,0 +1,1 @@
+document.getElementsByClassName("ytp-ad-skip-button")[0].click();
